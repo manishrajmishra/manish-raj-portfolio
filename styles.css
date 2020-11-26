@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    max-width: 600px;
+    max-width: 1000px;
     margin: auto;
 }
 
@@ -95,6 +95,7 @@ body {
 .hero .hero-heading {
     padding-top: 1rem;
     color: var(--dark-gray);
+    text-align: center;
 }
 
 .hero .hero-heading .heading-inverted {
